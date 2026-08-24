@@ -7,7 +7,7 @@ cask "calnip" do
   desc "Keyboard-first quick-entry launcher for Apple Calendar"
   homepage "https://github.com/avichandra2k1/calnip"
 
-  depends_on macos: ">= :tahoe"
+  depends_on macos: :tahoe
 
   app "Calnip.app"
 
