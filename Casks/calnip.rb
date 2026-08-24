@@ -1,6 +1,6 @@
 cask "calnip" do
-  version "0.1.0"
-  sha256 "064588f27dea8d188c0938f2258c008f146135e04f4b7bfede16694790baad98"
+  version "0.1.1"
+  sha256 "d1e8f302d6aff8d6d7ab42289e655e814186861063225584d05990d12fb27b67"
 
   url "https://github.com/avichandra2k1/Calnip/releases/download/v#{version}/Calnip-#{version}.zip"
   name "Calnip"
