@@ -1,8 +1,8 @@
 class Socr < Formula
   desc "Capture a screen region and OCR it with Apple Vision"
   homepage "https://github.com/avichandra2k1/socr"
-  url "https://github.com/avichandra2k1/socr/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "1cafb54290f5ba7df3f73dfc5f832ef0586eabb2d63923e86c0cce932cbe5122"
+  url "https://github.com/avichandra2k1/socr/archive/refs/tags/v0.1.1.tar.gz"
+  sha256 "59f193eb5032867fb03113fa6c1f6290b338a6ed5e99de91ec4ec1b6f007f43f"
   license "MIT"
 
   depends_on xcode: ["15.0", :build]
